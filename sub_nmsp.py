@@ -14,9 +14,9 @@ rpc = """
 
 root = etree.fromstring(rpc)
 
-host = "10.51.65.212"
-username = "lab"
-password = "lab"
+host = "1.1.1.1"
+username = "user"
+password = "pass"
 
 if __name__ == '__main__':
     with manager.connect(host=host,
