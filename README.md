@@ -8,6 +8,10 @@
 
 ## Example output
 
+
+![Animated demo](https://github.com/fsedano/nmsp-subscription-example/blob/master/demo.gif)
+
+
 ```(netconf) FSEDANOC-M-54DR:netconf fsedanoc$ ./sub_nmsp.py
 NMSP connection is INACTIVE
 
